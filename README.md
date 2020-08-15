@@ -1,5 +1,7 @@
 # Ball Simulation
 
+script.py is the executable.
+
 1. Select type of ball
   Ball: Normal ball that shoots in 1 continuous direction until a wall is hit.
   Floater: Ball that shoots in randomized direction.
